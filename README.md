@@ -8,7 +8,8 @@ This project implements a time series forecasting model for electricity consumpt
 .
 ├── data/
 │   └── electricity_consump/
-│       └── electricity_consumption.csv
+│       └── electricity_train.csv
+│       └── electricity_test.csv
 ├── electricity-consumotion.ipynb
 ├── requirements.txt
 └── README.md
